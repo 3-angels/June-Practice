@@ -1,0 +1,8 @@
+managers='John Henry Landmark Julis Edwin Devin Karen Mark Lisa Kim Me'
+echo "Our managers are" $managers
+echo "Our managers are" ${managers}
+echo "the last listed manager is:" ${managers:: 4}
+echo "the last listed manager is:" ${managers: $3} 
+echo "the fourth manager is" ${managers:20:5}
+
+echo '$3:' $3
