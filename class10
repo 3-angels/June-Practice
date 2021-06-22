@@ -1,0 +1,22 @@
+echo : For display purpose we will use.
+Like System.out.print() method in Java.
+cat : Display the contents of a file
+head : Print the first 10 lines of each FILE to standard output.
+tail : It will display the last 10 rows.
+more :It is a filter for paging through text one screenful at a time  (stop the display on each screen)
+less : less is the same except you can scroll back and forward.
+sort: It is used to sort the output in numeric or alphabetic order .
+tr: Translate characters
+sed: Stream editor.
+grep: which stands for "global regular expression print," processes text  line by line and prints any lines which match a specified pattern.
+iwho : Displays the current users working on the system.
+w : Show who is logged on and what they are doing
+users : Displays a compact list of the users currently logged on the  system.
+whoami : Display the current user info who gave this command
+whereis : Path/locate the binary, source, and manual page files for  a command.
+date : Print or set the system date and time
+df : Report file system disk space usage
+du : Estimate file space usage.
+hostname : Show or set the system host name.
+ifconfig (OR) hostname -i (OR) ip a : To find the IP address.
+
